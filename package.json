@@ -1,0 +1,15 @@
+{
+  "name": "electron-restudy",
+  "version": "1.0.0",
+  "description": "eres",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hw",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.0.1"
+  }
+}
